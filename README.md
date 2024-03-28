@@ -2,7 +2,7 @@
 My submission for the WWDC24 Swift Student Challenge!
 
 ## Status
-Pending
+[Accepted - Distinguished!](https://twitter.com/vedantapps/status/1773399446413545627) 
 
 ## Demo
 [Demo Video](https://youtu.be/ExdPPtEwrPU) 
